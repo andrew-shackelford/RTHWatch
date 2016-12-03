@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:RTHWatch.xcodeproj">
+      location = "self:/Users/Andrew/Dropbox/RTHWatch/RTHWatch/RTH.xcodeproj">
    </FileRef>
 </Workspace>
